@@ -12,6 +12,7 @@ public class InsertElement {
         x = number.nextInt();
         System.out.print(" Nhập vị trí cần chèn :");
         n = number.nextInt();
+
 //        for (int i = 0; i < array.length; i++) {
 //            if ( n == i) {
 //                for (int j = array.length - 1; j > i; j--) {
